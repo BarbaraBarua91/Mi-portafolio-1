@@ -1,0 +1,18 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    padding: 20px;
+    background-color: aquamarine;
+}
+
+.logo {
+    font-weight: bold;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
