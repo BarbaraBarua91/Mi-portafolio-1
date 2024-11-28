@@ -1,10 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
 header {
+    
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 0 ;
-    background-color: aquamarine;
-    ;
+    background-color: white
+    
 }
 
 .logo {
@@ -12,23 +15,31 @@ header {
     font-size: 90px;
     padding: 0;
     margin: 20px;
+    font-family: "Noto Serif", serif
     
 }
 
 a {
     text-decoration: none;
+    color: black;
 }
 ul {
     list-style-type: none;
     display: flex;
     padding: 0;
     align-items: center;
+    font-family: "Noto Serif", serif
     
-
+    
 }
 li {
     margin-right: 20px;
-    font-size: 20px
+    font-weight:normal
+    
+    
+
+
+
     
 ;
 }
