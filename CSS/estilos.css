@@ -36,12 +36,7 @@ li {
     margin-right: 20px;
     font-weight:normal
     
-    
 
-
-
-    
-;
 }
 
 .redes {
@@ -52,3 +47,50 @@ li {
     
     
 }
+
+.hero {
+    height: 75vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    background-image:url(/imagen/rostro.png)
+    
+}
+
+.hero-contenido {
+    color: white;
+    display: flex; 
+    justify-content: flex-start;
+    flex-direction: column;
+    margin: 150px;
+    margin-bottom: 20%;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 0%;
+}
+
+h2 {
+    font-weight: lighter;
+    font-size: 20px;
+    margin-bottom: 25%
+
+}
+
+.boton {
+    color: white;
+    background-color: #000;
+    border-bottom-color: #fff;
+    font-size: x-small;
+    height: 25px;
+    border-right-color: #fff;
+    border-bottom: 1px;
+    width: 90px;
+    border-bottom-style:solid;
+    margin-left: 70px;
+
+}
+
