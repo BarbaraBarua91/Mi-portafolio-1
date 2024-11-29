@@ -29,14 +29,12 @@ ul {
     padding: 0;
     align-items: center;
     font-family: "Noto Serif", serif
-    
-    
+      
 }
 li {
     margin-right: 20px;
     font-weight:normal
     
-
 }
 
 .redes {
@@ -44,13 +42,12 @@ li {
     gap: 15px;
     margin: 20px;
     color: black;
-    
-    
+       
 }
 
 .hero {
-    height: 75vh;
-    background-size: cover;
+    height: 65vh;
+    background-size:cover;
     background-position: center;
     display: flex;
     align-items: center;
@@ -66,15 +63,17 @@ li {
     margin: 150px;
     margin-bottom: 20%;
     text-align: center;
+    font-family: noto serif;
 }
 
 h1 {
     font-size: 40px;
     margin-bottom: 0%;
+    
 }
 
 h2 {
-    font-weight: lighter;
+    font-weight:lighter;
     font-size: 20px;
     margin-bottom: 25%
 
@@ -90,7 +89,7 @@ h2 {
     border-bottom: 1px;
     width: 90px;
     border-bottom-style:solid;
-    margin-left: 70px;
+    margin-left: 105px;
 
 }
 
