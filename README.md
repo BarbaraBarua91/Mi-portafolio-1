@@ -1,0 +1,1 @@
+Este proyecto es mi primer desarrollo de una página web, diseñado como un CV digital ficticio mío, una aspirante a Front-end Developer. El objetivo principal fue poner en práctica conceptos básicos de HTML, CSS y diseño responsivo, recreando una presentación profesional y visualmente atractiva.
